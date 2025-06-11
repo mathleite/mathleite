@@ -19,7 +19,7 @@
 
 ## 💡 What Drives Me
 
-I’m a tech enthusiast who’s always chasing the next thing to learn — whether it's a new language, framework, or some obscure RFC no one's read. I love solving real problems (and occasionally creating some, just to make life interesting 😅). Building smart, practical solutions for challenges I face — that’s where I thrive.
+Tech enthusiast who’s always chasing the next thing to learn — whether it's a new language, framework, or some obscure RFC no one's read. I love solving real problems _(and occasionally creating some, just to make life interesting 😅)_. Building smart, practical solutions for challenges I face — that’s where I thrive.
 
 ---
 
